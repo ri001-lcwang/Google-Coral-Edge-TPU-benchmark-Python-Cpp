@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc.a  CMakeFiles/misc.dir/sub_misc_c0.cpp.o CMakeFiles/misc.dir/sub_librosa_c0.cpp.o CMakeFiles/misc.dir/sub_ulib_realtime_pso_c0.cpp.o
+/usr/bin/ranlib libmisc.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodel_utils.a  CMakeFiles/model_utils.dir/home/pi/edgetpu-minimal-example/src/model_utils.cc.o
+/usr/bin/ranlib libmodel_utils.a

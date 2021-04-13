@@ -1,0 +1,6 @@
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/demo.dir
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/model_utils.dir
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/thread_function.dir
+/home/pi/Desktop/hawkeye/stanley_test_files/test_edgetpu_minimal_example/build/CMakeFiles/misc.dir
